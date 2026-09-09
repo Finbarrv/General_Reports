@@ -1,0 +1,97 @@
+﻿Name,CountryAbbreviation,RatingsWebsiteAvailable,RatingReasonsExist,ReasonsAdvisoriesType
+Argentina,AR,"yes, current",Never,
+Australia,AU,"yes, current",Always,free form
+Austria,AT,N,Never,
+Bahrain Middle East,BH,N,Never,
+Barbados,BB,N,Never,
+Belgium,BE,"yes, current",Never,free form
+Bosnia and Herzegovina,BA,,,
+Brazil,BR,"yes, current",Always,free form
+Brunei,BN,N,Never,
+Bulgaria,BG,N,Never,
+Cambodia,"KH,LA,LK",N,Never,
+Canada (Ontario),CA,"yes, current",Sometimes,free form
+Canada (Quebec),QC,"yes, current",Sometimes,free form
+Chile,CL,"yes, current",Never,
+China,CN,N,Unknown,
+Colombia,CO,N,Never,
+Croatia,HR,N,Unknown,
+Cyprus,CY,N,Never,
+Czech Republic,CZ,N,Never,
+Denmark,DK,"yes, current",Never,free form
+Dominican Republic LATAM,DO,N,Never,
+Egypt Middle East,EG,N,Never,
+English Speaking Bahamas,BS,N,Never,
+English Speaking Bermuda & BVI,"BM,VG",N,Never,
+Estonia,EE,N,Never,
+Federated States of Micronesia,FM,N,Never,
+Finland,FI,"yes, current",Always,free form
+France,FR,"yes, current",Never,free form
+Germany,DE,"yes, current",Sometimes,look up
+Greece,GR,N,Never,
+Hong Kong,HK,"yes, current",Never,free form
+Hungary,HU,N,Never,
+Iceland,IS,N,Never,
+India 1,IN,"yes, current",Always,look up
+India 2,IN,"yes, current",Always,
+India 3,IN,"yes, current",Always,
+Indonesia,ID,"yes, current",Never,free form
+Ireland,IE,"yes, current",Sometimes,free form
+Israel,IL,N,Sometimes,
+Italy,IT,"yes, current",Sometimes,look up
+Jamaica,JM,N,Never,
+Japan,JP,"yes, current",Never,free form
+Jordan Middle East,JO,N,Never,
+Kazakhstan CIS,KZ,N,Never,
+Korea,KR,"yes, current",Always,look up
+Kyrgyzstan CIS,KG,N,Never,
+Laos,LA,N,Never,
+Latvia,EE,N,Never,
+Lebanon Middle East,LB,N,Never,
+Lithuania,LT,N,Never,
+Luxembourg,LU,"yes, current",Never,
+Macau,MO,N,Never,
+Macedonia,NK,,,
+Malaysia,MY,N,Never,free form
+Malta,MT,N,Never,
+Martinique,MQ,,,
+Mexico,MX,N,Never,
+Moldova CIS,MD,N,Never,
+Mongolia,MN,N,Never,
+Myanmar,MM,,,
+Nepal,NP,N,Never,
+Netherlands,NL,"yes, current",Always,look up
+New Caledonia,NC,,,
+New Zealand,NZ,"yes, current",Always,free form
+Norway,NO,"yes, current",Never,free form
+Oman Middle East,OM,N,Never,
+Pakistan,PK,,,
+Papua New Guinea,PG,"yes, current",Always,free form
+Philippines,PH,"yes, current",Never,
+Poland,PL,N,Never,
+Portugal,PT,"yes, current",Never,
+Qatar Middle East,QA,N,Never,
+Réunion,RE,,,
+Romania,RO,N,Unknown,
+Russia,RU,N,Never,free form
+Saudi Arabia Middle East,SA,N,Never,
+Serbia,RS,,,
+Singapore,SG,"yes, current",Always,free form
+Slovakia,SK,N,Never,
+Slovenia,SI,N,Never,
+South Africa,ZA,"yes, current",Sometimes,free form
+Spain,ES,"yes, current",Never,free form
+Sri Lanka,LK,N,Never,
+Sweden,SE,"yes, current",Never,
+Switzerland,CH,"yes, current",Never,
+Taiwan,TW,"yes, current",Never,free form
+Tajikistan CIS,TJ,N,Never,
+Thailand,TH,"yes, current",Never,free form
+Turkey,TR,N,Always,look up
+Ukraine,UA,N,Never,
+United Arab Emirates,AE,N,Never,
+United Kingdom,UK,"yes, current",Sometimes,free form
+United States,US,"yes, current",Sometimes,free form
+Uruguay - LATAM,UY,N,Never,
+Uzbekistan CIS,UZ,N,Never,
+Vietnam,VN,N,Never,
