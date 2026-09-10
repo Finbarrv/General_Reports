@@ -1,4 +1,4 @@
-﻿Name,CountryAbbreviation,RatingsWebsiteAvailable,RatingReasonsExist,ReasonsAdvisoriesType
+name,CountryAbbreviation,RatingsWebsiteAvailable,RatingReasonsExist,ReasonsAdvisoriesType
 Argentina,AR,"yes, current",Never,
 Australia,AU,"yes, current",Always,free form
 Austria,AT,N,Never,
